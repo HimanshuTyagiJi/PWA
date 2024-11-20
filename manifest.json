@@ -1,11 +1,10 @@
 {
   "name": "How to creat a post",
-  "short_name": "How",
-  "start_url": "/",
-  "display": "standalone",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "description": "How to creat a post.",
+  "short_name": "How",
+  "id": "Himanshu",
+  "description": "How to creat",
   "icons": [
     {
       "src": "https://yourblogiconlink.com/icon-192x192.png",
