@@ -5,7 +5,11 @@
   "short_name": "How",
   "id": "Himanshu",
   "description": "How to creat",
-  "start_url": "/"
+  "start_url": "/",
+
+  "categories": [
+    "education"
+  ],
 
   "icons": [
     {
