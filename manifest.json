@@ -5,6 +5,8 @@
   "short_name": "How",
   "id": "Himanshu",
   "description": "How to creat",
+  "start_url": "/"
+
   "icons": [
     {
       "src": "https://gklearnstudy.in/gklearnstudy.png",
